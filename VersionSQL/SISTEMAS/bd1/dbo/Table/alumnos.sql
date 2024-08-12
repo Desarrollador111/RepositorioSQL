@@ -6,6 +6,7 @@ CREATE TABLE [dbo].[alumnos](
 	[apellido] [varchar](30) NULL,
 	[nombre] [varchar](30) NULL,
 	[notafinal] [decimal](4, 2) NULL,
+	[Colum1] [varchar](40) NULL,
  CONSTRAINT [UQ_alumnos_documento] UNIQUE NONCLUSTERED 
 (
 	[documento] ASC

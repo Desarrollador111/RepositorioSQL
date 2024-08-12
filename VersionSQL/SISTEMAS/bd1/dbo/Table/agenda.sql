@@ -11,5 +11,6 @@ CREATE TABLE [dbo].[agenda](
 	[PdesdeSqlserver] [varchar](20) NULL,
 	[PdesdeSqlserver2] [varchar](20) NULL,
 	[NuevaColum] [varchar](20) NULL,
-	[ColumnaNueva2] [varchar](40) NULL
+	[ColumnaNueva2] [varchar](40) NULL,
+	[Colum3] [varchar](40) NULL
 ) ON [PRIMARY]
